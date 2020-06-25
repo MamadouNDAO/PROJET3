@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+html,body{
+    height: 100%;
+    background-image: url(./bg1.jpg);
+    background-repeat:no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+#main {
+    
+    height: 90vh;
+}
+.cadre{
+    height: 30vh;
+    width: 80vh;
+    border: solid 1px red;
+}
+.child{
+    background-color: white;
+}
