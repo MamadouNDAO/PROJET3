@@ -15,10 +15,36 @@ html,body{
     height: 90vh;
 }
 .cadre{
-    height: 30vh;
-    width: 80vh;
-    border: solid 1px red;
+    height: 50vh;
+    background-color: rgba(255, 255, 255, 0.658);
+    border-radius: 5px;
+    
 }
-.child{
-    background-color: white;
+.container{
+   margin-left: 35vw;
+
+}
+.tom{
+    border-radius: 50px;
+    background-color: rgb(65, 65, 243);
+    color: white;
+    position: relative;
+    margin: 0 auto;
+    top: 60px;
+    padding: 10px;
+    text-align: center;
+   
+    
+}
+.tom2{
+    border-radius: 50px;
+    background-color: rgb(65, 65, 243);
+    color: white;
+    position: relative;
+    margin: 0 auto;
+    top: 75px;
+    padding: 10px;
+    text-align: center;
+   
+    
 }
